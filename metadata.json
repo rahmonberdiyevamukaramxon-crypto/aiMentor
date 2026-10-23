@@ -1,0 +1,6 @@
+{
+  "name": "IELTS AI Mentor",
+  "description": "Sun'iy intellekt asosida IELTS imtihoniga to'liq va tizimli tayyorgarlik platformasi - barcha 4 ko'nikma, moslashuvchan reja va real vaqtdagi tahlil.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

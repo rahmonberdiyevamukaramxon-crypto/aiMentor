@@ -1,0 +1,1373 @@
+{
+  "profiles": [
+    {
+      "id": "admin-master-id",
+      "role": "admin",
+      "first_name": "Administrator",
+      "last_name": "IELTS Mentor",
+      "age": 32,
+      "pin_hash": "e617e3db7cb934f4c5bece51af4e1eccf913f2d991435a110ed9cf5a0f674f44",
+      "target_band": 9,
+      "current_level": "C2",
+      "study_hours_per_day": 4,
+      "intensity": "intensive",
+      "streak_days": 30,
+      "total_study_minutes": 2400,
+      "last_active_date": "2026-10-23",
+      "created_at": "2026-10-23T14:44:59.011Z",
+      "updated_at": "2026-10-23T14:44:59.011Z"
+    },
+    {
+      "id": "demo-student-id",
+      "role": "student",
+      "first_name": "Azizbek",
+      "last_name": "Karimov",
+      "age": 20,
+      "pin_hash": "b8e6e1fb19990b993af0432daf0433d21eb36b46cc3c09b7e66df7c71d25e224",
+      "target_band": 7.5,
+      "current_level": "B2",
+      "exam_date": "2026-12-15",
+      "study_hours_per_day": 2,
+      "intensity": "intensive",
+      "streak_days": 7,
+      "total_study_minutes": 422,
+      "last_active_date": "2026-10-23",
+      "created_at": "2026-10-23T14:44:59.011Z",
+      "updated_at": "2026-10-23T15:26:13.855Z"
+    },
+    {
+      "role": "student",
+      "first_name": "Test",
+      "last_name": "Olimov",
+      "age": 19,
+      "pin_hash": "b8e6e1fb19990b993af0432daf0433d21eb36b46cc3c09b7e66df7c71d25e224",
+      "target_band": 7.5,
+      "current_level": "B2",
+      "study_hours_per_day": 2,
+      "intensity": "intensive",
+      "id": "e85e3eff-2fcf-4bcb-9a68-7bb7982dde12",
+      "streak_days": 1,
+      "total_study_minutes": 1,
+      "last_active_date": "2026-10-23",
+      "created_at": "2026-10-23T14:44:59.013Z",
+      "updated_at": "2026-10-23T14:44:59.019Z"
+    },
+    {
+      "role": "student",
+      "first_name": "Test",
+      "last_name": "Olimov",
+      "age": 19,
+      "pin_hash": "b8e6e1fb19990b993af0432daf0433d21eb36b46cc3c09b7e66df7c71d25e224",
+      "target_band": 7.5,
+      "current_level": "B2",
+      "study_hours_per_day": 2,
+      "intensity": "intensive",
+      "id": "def02f12-7985-4375-b3be-7dadb480ba8c",
+      "streak_days": 1,
+      "total_study_minutes": 1,
+      "last_active_date": "2026-10-23",
+      "created_at": "2026-10-23T14:56:01.849Z",
+      "updated_at": "2026-10-23T14:56:01.854Z"
+    },
+    {
+      "id": "admin-master-id",
+      "role": "admin",
+      "first_name": "Administrator",
+      "last_name": "IELTS Mentor",
+      "age": 32,
+      "pin_hash": "e617e3db7cb934f4c5bece51af4e1eccf913f2d991435a110ed9cf5a0f674f44",
+      "target_band": 9,
+      "current_level": "C2",
+      "study_hours_per_day": 4,
+      "intensity": "intensive",
+      "streak_days": 30,
+      "total_study_minutes": 2400,
+      "last_active_date": "2026-10-23",
+      "created_at": "2026-10-23T15:25:04.263Z",
+      "updated_at": "2026-10-23T15:25:04.263Z"
+    },
+    {
+      "id": "demo-student-id",
+      "role": "student",
+      "first_name": "Azizbek",
+      "last_name": "Karimov",
+      "age": 20,
+      "pin_hash": "b8e6e1fb19990b993af0432daf0433d21eb36b46cc3c09b7e66df7c71d25e224",
+      "target_band": 7.5,
+      "current_level": "B2",
+      "exam_date": "2026-12-15",
+      "study_hours_per_day": 2,
+      "intensity": "intensive",
+      "streak_days": 7,
+      "total_study_minutes": 420,
+      "last_active_date": "2026-10-23",
+      "created_at": "2026-10-23T15:25:04.263Z",
+      "updated_at": "2026-10-23T15:25:04.263Z"
+    }
+  ],
+  "learning_plans": [
+    {
+      "id": "3e6bf0c5-d026-4dda-860c-79f47e7db95b",
+      "profile_id": "demo-student-id",
+      "daily_objectives": [
+        {
+          "day": "Bugun",
+          "title": "Reading: True/False/Not Given xatolarni tahlil qilish",
+          "skill": "reading",
+          "duration_min": 25,
+          "completed": true
+        },
+        {
+          "day": "Ertaga",
+          "title": "Writing Task 2: AI ta’limda mavzusida insho yozish",
+          "skill": "writing",
+          "duration_min": 40,
+          "completed": false
+        },
+        {
+          "day": "Payshanba",
+          "title": "Speaking Part 2: O‘tgan yutuq haqida 2-daqiqa gapirish",
+          "skill": "speaking",
+          "duration_min": 20,
+          "completed": false
+        },
+        {
+          "day": "Juma",
+          "title": "Vocabulary: C1 darajadagi 10 ta akademik so‘z testi",
+          "skill": "vocabulary",
+          "duration_min": 20,
+          "completed": false
+        }
+      ],
+      "weekly_milestones": [
+        {
+          "week": 1,
+          "goal": "Readingda 7.0 band darajasini mustahkamlash",
+          "target_band": 7,
+          "completed": true
+        },
+        {
+          "week": 2,
+          "goal": "Writingda 250+ so‘z va 7.0 band strukturasini tuzish",
+          "target_band": 7,
+          "completed": false
+        },
+        {
+          "week": 3,
+          "goal": "Speakingda ikkilanishlarsiz nutq va boy so‘z boyligi",
+          "target_band": 7.5,
+          "completed": false
+        }
+      ],
+      "recommended_exercises": [
+        "writ-ex-1",
+        "spk-ex-1",
+        "gram-ex-1"
+      ],
+      "weak_skills": [
+        {
+          "skill": "Reading",
+          "error_count": 1,
+          "focus_area": "Not Given vs False farqlash"
+        }
+      ],
+      "created_at": "2026-10-23T14:44:59.012Z",
+      "updated_at": "2026-10-23T14:44:59.012Z"
+    },
+    {
+      "id": "894986a6-8218-4a18-8b2c-2fbd88258263",
+      "profile_id": "demo-student-id",
+      "daily_objectives": [
+        {
+          "day": "Bugun",
+          "title": "Reading: True/False/Not Given xatolarni tahlil qilish",
+          "skill": "reading",
+          "duration_min": 25,
+          "completed": true
+        },
+        {
+          "day": "Ertaga",
+          "title": "Writing Task 2: AI ta’limda mavzusida insho yozish",
+          "skill": "writing",
+          "duration_min": 40,
+          "completed": false
+        },
+        {
+          "day": "Payshanba",
+          "title": "Speaking Part 2: O‘tgan yutuq haqida 2-daqiqa gapirish",
+          "skill": "speaking",
+          "duration_min": 20,
+          "completed": false
+        },
+        {
+          "day": "Juma",
+          "title": "Vocabulary: C1 darajadagi 10 ta akademik so‘z testi",
+          "skill": "vocabulary",
+          "duration_min": 20,
+          "completed": false
+        }
+      ],
+      "weekly_milestones": [
+        {
+          "week": 1,
+          "goal": "Readingda 7.0 band darajasini mustahkamlash",
+          "target_band": 7,
+          "completed": true
+        },
+        {
+          "week": 2,
+          "goal": "Writingda 250+ so‘z va 7.0 band strukturasini tuzish",
+          "target_band": 7,
+          "completed": false
+        },
+        {
+          "week": 3,
+          "goal": "Speakingda ikkilanishlarsiz nutq va boy so‘z boyligi",
+          "target_band": 7.5,
+          "completed": false
+        }
+      ],
+      "recommended_exercises": [
+        "writ-ex-1",
+        "spk-ex-1",
+        "gram-ex-1"
+      ],
+      "weak_skills": [
+        {
+          "skill": "Reading",
+          "error_count": 1,
+          "focus_area": "Not Given vs False farqlash"
+        }
+      ],
+      "created_at": "2026-10-23T15:25:04.264Z",
+      "updated_at": "2026-10-23T15:25:04.264Z"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "read-ex-1",
+      "skill": "reading",
+      "sub_type": "academic_passage",
+      "title": "The Architecture of Biophilic Urban Design",
+      "title_uz": "Biofil shahar arxitekturasi va uning psixologik ta’siri",
+      "description_uz": "IELTS Academic Reading Passage 2 standarti. True/False/Not Given va xulosa to‘ldirish savollari.",
+      "passage_or_prompt": "For decades, modern metropolitan landscapes have been dominated by steel, concrete, and asphalt—materials engineered for structural efficiency and density rather than biological harmony. However, an emerging architectural paradigm known as 'biophilic design' posits that human psychological and physiological equilibrium is intrinsically intertwined with natural ecosystems. Pioneered by sociobiologist Edward O. Wilson, the biophilia hypothesis suggests that humans possess an innate biological affinity for the living world.\n\nRecent empirical investigations conducted in Singapore and Copenhagen indicate that integrating vertical forests, sky gardens, and uninhibited natural light into high-density commercial towers correlates with a 15% reduction in occupational stress and a measurable improvement in cognitive restoration. Architects argue that this approach transcends mere aesthetic embellishment; it fundamentally redesigns environmental acoustics and improves interior air filtration through natural evapotranspiration.\n\nNonetheless, skeptics contend that biophilic retrofitting presents steep economic barriers. The structural reinforcement needed to support elevated soil loads and irrigation systems elevates upfront engineering costs by approximately 18 to 22 percent. Moreover, without rigorous botanical management, non-native plant species introduce pest liabilities. Despite these fiscal hurdles, leading municipal authorities in Tokyo and Melbourne are now codifying mandatory living-wall ratios for new commercial developments, asserting that the long-term public health savings far outweigh initial capital expenditures.",
+      "duration_minutes": 20,
+      "difficulty": "medium",
+      "is_published": true,
+      "created_at": "2026-10-23T14:44:59.011Z"
+    },
+    {
+      "id": "read-ex-2",
+      "skill": "reading",
+      "sub_type": "academic_passage",
+      "title": "The Cognitive Architecture of Bilingualism",
+      "title_uz": "Ikki tillilikning kognitiv arxitekturasi va xotira mustahkamligi",
+      "description_uz": "IELTS Academic Reading standarti. 5 ta paragraf. Fokusli o‘chib borish va dalillar tahlili.",
+      "passage_or_prompt": "For over a century, psycholinguists and educators maintained that learning two languages concurrently during childhood produced cognitive friction. Early 20th-century assessments routinely concluded that bilingual youngsters suffered from diminished vocabulary acquisition and linguistic hesitation. However, modern neuroimaging technologies, including functional Magnetic Resonance Imaging (fMRI), have thoroughly dismantled this outdated paradigm, demonstrating that managing two active linguistic systems yields profound neural advantages.\n\nAt the epicenter of this cognitive enhancement is the brain's executive control system—a distributed neural network housed within the dorsolateral prefrontal cortex. Whenever a bilingual individual speaks, both language systems remain activated simultaneously. The brain must constantly suppress the non-target language while retrieving words from the target language. This continuous mental workout strengthens neural pathways responsible for attentional control, cognitive flexibility, and task switching.\n\nEmpirical investigations orchestrated by cognitive neuroscientist Dr. Ellen Bialystok revealed that bilingual individuals systematically outperform monolinguals in complex problem-solving scenarios that involve conflicting perceptual cues. In the celebrated Simon and Flanker tests, bilingual participants demonstrated significantly faster reaction latencies and reduced susceptibility to distracting visual stimuli, proving their heightened ability to filter extraneous noise.\n\nBeyond immediate executive function benefits, sustained bilingualism appears to construct a formidable biological safeguard against neurodegenerative disorders. Clinical studies across North America and Europe found that lifelong bilingual patients diagnosed with Alzheimer’s disease manifest clinical symptoms of cognitive decline four to five years later than their monolingual counterparts with equivalent levels of brain pathology. Neuroscientists attribute this phenomenon to 'cognitive reserve'—an enhanced capacity of the brain to compensate for structural degradation through alternative neural routes.\n\nNevertheless, linguistic scholars emphasize that these cognitive dividends are not accrued instantaneously through superficial language exposure. The neurological benefits correlate directly with the depth of linguistic immersion, regular switching between languages, and communicative intensity. As globalized societies increasingly recognize the clinical and computational value of neuroplasticity, promoting early bilingual education is emerging as a cornerstone of modern cognitive public policy.",
+      "duration_minutes": 20,
+      "difficulty": "hard",
+      "is_published": true,
+      "created_at": "2026-10-23T15:30:00.000Z"
+    },
+    {
+      "id": "list-ex-1",
+      "skill": "listening",
+      "sub_type": "academic_lecture",
+      "title": "Campus Accommodation and Student Support Briefing",
+      "title_uz": "Universitet yotoqxonasi va talabalar markazi brifingi",
+      "description_uz": "IELTS Listening Section 1 & 2 formati. Telefon orqali ro‘yxatdan o‘tish va qoidalar.",
+      "passage_or_prompt": "Listen to the conversation between an international student and an accommodation coordinator.",
+      "audio_url": "https://ais-audio-demo.storage.googleapis.com/ielts_listening_sample1.mp3",
+      "audio_transcript": "Officer: Good morning, University Housing Office. How may I help you?\nStudent: Hello. I'm an incoming postgraduate student from Uzbekistan. My name is Dilshod Rakhimov. I'd like to confirm my residence hall allocation.\nOfficer: Welcome Dilshod! Let me pull up your student portal. Could you provide your student ID number?\nStudent: Yes, it is UK-90842.\nOfficer: Thank you. Yes, you have been assigned to 'Meadow View Hall', Room 402B. It includes an en-suite bathroom and shared kitchen facilities with 4 other postgrads.\nStudent: That sounds excellent. What is the quarterly rental fee, and does it include broadband internet?\nOfficer: The quarterly rent is 1,850 pounds, fully inclusive of ultra-fast fiber broadband, heating, and water. Laundry cards can be loaded online.\nStudent: Perfect. What is the latest check-in time on September 18th?\nOfficer: The reception desk operates 24 hours, but key collection for inventory inspection must be completed before 8:00 PM.",
+      "duration_minutes": 15,
+      "difficulty": "easy",
+      "is_published": true,
+      "created_at": "2026-10-23T14:44:59.011Z"
+    },
+    {
+      "id": "writ-ex-1",
+      "skill": "writing",
+      "sub_type": "academic_task2",
+      "task_type": "task2",
+      "title": "IELTS Academic Writing Task 2: Artificial Intelligence in Higher Education",
+      "title_uz": "Writing Task 2: Ta’limda sun’iy intellektning roli",
+      "description_uz": "250 ta so‘zdan kam bo‘lmagan to‘liq akademik insho yozing. 40 daqiqa vaqt ajratilgan.",
+      "passage_or_prompt": "You should spend about 40 minutes on this task.\n\nWrite about the following topic:\n\n\"Some people believe that artificial intelligence tools will entirely replace human university professors within the next two decades, while others maintain that human mentorship remains irreplaceable in higher education.\"\n\nDiscuss both views and give your own opinion.\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\nWrite at least 250 words.",
+      "duration_minutes": 40,
+      "difficulty": "hard",
+      "is_published": true,
+      "created_at": "2026-10-23T14:44:59.011Z"
+    },
+    {
+      "id": "spk-ex-1",
+      "skill": "speaking",
+      "sub_type": "speaking_part2",
+      "task_type": "part2",
+      "title": "IELTS Speaking Part 2: Cue Card Challenge",
+      "title_uz": "Speaking Part 2: 1-daqiqa tayyorgarlik va 2-daqiqa nutq",
+      "description_uz": "Berilgan kartochka bo‘yicha 1 daqiqa reja tuzing va 2 daqiqa davomida mikrofon orqali inglizcha gapiring.",
+      "passage_or_prompt": "Describe an ambitious personal goal that you succeeded in achieving.\n\nYou should say:\n- What the goal was\n- When and why you decided to pursue it\n- What difficulties or obstacles you had to overcome\n- And explain how you felt when you successfully achieved it.",
+      "duration_minutes": 5,
+      "difficulty": "medium",
+      "is_published": true,
+      "created_at": "2026-10-23T14:44:59.011Z"
+    },
+    {
+      "id": "gram-ex-1",
+      "skill": "grammar",
+      "sub_type": "grammar_drill",
+      "title": "Inversion and Conditionals in Academic Discourse",
+      "title_uz": "Inversiya va murakkab shart gaplar (Band 7.0+ Grammatika)",
+      "description_uz": "Akademik insho va rasmiy nutq uchun yuqori ball beruvchi strukturalar.",
+      "passage_or_prompt": "Choose the grammatically accurate and most stylistically sophisticated academic option.",
+      "duration_minutes": 10,
+      "difficulty": "hard",
+      "is_published": true,
+      "created_at": "2026-10-23T14:44:59.011Z"
+    },
+    {
+      "id": "list-ex-2",
+      "skill": "listening",
+      "sub_type": "information_matching",
+      "title": "Manchester Central Library Orientation & Digital Archives",
+      "title_uz": "Shahar markaziy kutubxonasi va arxivlar bo‘yicha qo‘llanma",
+      "description_uz": "IELTS Listening Section 2 formati. Monolog tinglash, qoidalar va xonalar taqsimoti.",
+      "passage_or_prompt": "Listen to the chief archivist delivering an orientation talk to new university researchers.",
+      "audio_url": "/api/audio/exercise/list-ex-2",
+      "audio_transcript": "Speaker: Good morning and welcome to Manchester Central Library. My name is Helen Davies, the chief archivist, and today I will give you a quick orientation before you start your research projects.\nFirst of all, our opening hours are Monday to Saturday from 8:30 AM to 7:00 PM. On Sundays, we are open strictly between 10:00 AM and 4:00 PM for private study only.\nNow, regarding the floor layout. As you enter through the main revolving doors on the Ground Floor, you will see the Reception Desk straight ahead. If you turn immediately to your left, you will find the New Arrivals and Fiction wing. To your right is the Computer and Internet Lab, which has 40 workstations.\nThe Second Floor houses our Humanities and Social Sciences collections, alongside our Group Study Pods. Please remember, group discussions are strictly confined to these pods.\nFor those of you conducting historical or genealogical research, the Rare Manuscripts and Local Heritage Archives are located on Level 3. Access to this level requires a pre-booked security badge, which you can obtain from Reception after paying a refundable key deposit of 20 pounds.\nLastly, standard members can borrow up to 8 books at any time for a duration of 3 weeks. Fines for overdue books are 50 pence per day, so please renew them online through your library account.\nNow, if you have any questions, I will be glad to take them.",
+      "duration_minutes": 15,
+      "difficulty": "medium",
+      "is_published": true,
+      "created_at": "2026-10-23T15:25:04.263Z"
+    },
+    {
+      "id": "list-ex-3",
+      "skill": "listening",
+      "sub_type": "academic_lecture",
+      "title": "Marine Bioluminescence: Biological Mechanisms & Evolutionary Functions",
+      "title_uz": "Dengiz biolyuminessensiyasi: Mexanizmlar va evolyutsiya",
+      "description_uz": "IELTS Listening Section 4 formati. Monolog akademik ma’ruza, kimyoviy jarayonlar va funksiyalar.",
+      "passage_or_prompt": "Listen to part of an academic lecture on marine biology.",
+      "audio_url": "/api/audio/exercise/list-ex-3",
+      "audio_transcript": "Lecturer: Good afternoon, students. In today's marine biology lecture, we will examine bioluminescence — the production and emission of light by living organisms in aquatic environments.\nUnlike incandescent light bulbs, which lose over 90 percent of their energy as heat, bioluminescent light is known as cold light. In fact, less than 20 percent of the reaction produces thermal energy, making it exceptionally efficient.\nThe fundamental chemical reaction requires two unique compounds: a light-emitting pigment called luciferin, and an enzyme known as luciferase. When luciferin reacts with oxygen in the presence of luciferase, light is produced.\nNow, why have deep-sea creatures developed this capability? Marine biologists categorize its evolutionary functions into three main purposes.\nFirst, offensive predation. The anglerfish famously dangles a luminous lure from its head, mimicking small prey to attract unsuspecting fish into its jaws.\nSecond, defensive camouflage. Many squid and fish species employ a technique called counter-illumination. By emitting faint bluish light from their ventral underbellies, they match the sunlight filtering down from the surface, effectively rendering themselves invisible to predators lurking beneath them.\nAnd third, intraspecific communication and mating displays, frequently observed in ostracod crustaceans off the Caribbean reefs.\nTomorrow, we will explore laboratory applications of GFP, or green fluorescent protein, derived from jellyfish.",
+      "duration_minutes": 20,
+      "difficulty": "hard",
+      "is_published": true,
+      "created_at": "2026-10-23T15:25:04.263Z"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-read-1",
+      "exercise_id": "read-ex-1",
+      "question_number": 1,
+      "question_text": "Edward O. Wilson was primarily an architect who invented vertical urban gardens.",
+      "question_type": "true_false_not_given",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correct_answer": "FALSE",
+      "explanation_uz": "Matnda Wilson 'sociobiologist' (sotsiobiolog) deb atalgan va u 'biophilia hypothesis' asoschisi sifatida keltirilgan, vertikal bog‘larni ixtiro qilgan arxitektor emas.",
+      "evidence_passage": "Pioneered by sociobiologist Edward O. Wilson, the biophilia hypothesis suggests...",
+      "error_category": "paraphrase_recognition"
+    },
+    {
+      "id": "q-read-2",
+      "exercise_id": "read-ex-1",
+      "question_number": 2,
+      "question_text": "Research in Singapore and Copenhagen demonstrated that natural light and greenery lowered work-related stress by fifteen percent.",
+      "question_type": "true_false_not_given",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correct_answer": "TRUE",
+      "explanation_uz": "Matndagi dalil to‘g‘ridan-to‘g‘ri mos keladi: 'correlates with a 15% reduction in occupational stress'.",
+      "evidence_passage": "Recent empirical investigations conducted in Singapore and Copenhagen indicate that integrating vertical forests... correlates with a 15% reduction in occupational stress",
+      "error_category": "evidence_location"
+    },
+    {
+      "id": "q-read-3",
+      "exercise_id": "read-ex-1",
+      "question_number": 3,
+      "question_text": "Tokyo has banned all construction companies that refuse to install living walls.",
+      "question_type": "true_false_not_given",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correct_answer": "NOT GIVEN",
+      "explanation_uz": "Matnda Tokioda majburiy nisbatlar kiritilayotgani aytilgan, lekin rad etgan qurilish kompaniyalarini butunlay taqiqlash (banned all construction companies) haqida hech qanday ma’lumot berilmagan.",
+      "evidence_passage": "municipal authorities in Tokyo and Melbourne are now codifying mandatory living-wall ratios...",
+      "error_category": "inference_error"
+    },
+    {
+      "id": "q-read-4",
+      "exercise_id": "read-ex-1",
+      "question_number": 4,
+      "question_text": "What is the primary factor that increases the initial cost of biophilic buildings by up to 22%?",
+      "question_type": "multiple_choice",
+      "options": [
+        "A) Importing rare exotic flowers from South America",
+        "B) Structural reinforcement for soil loads and irrigation systems",
+        "C) High salaries required by European botanical specialists",
+        "D) Acoustic monitoring sensors placed throughout the ceiling"
+      ],
+      "correct_answer": "B) Structural reinforcement for soil loads and irrigation systems",
+      "explanation_uz": "Matnda xarajat 18-22% oshishi sababi sifatida tuproq og‘irligi va sug‘orish tizimlari uchun muhandislik mustahkamlashi ko‘rsatilgan.",
+      "evidence_passage": "The structural reinforcement needed to support elevated soil loads and irrigation systems elevates upfront engineering costs by approximately 18 to 22 percent.",
+      "error_category": "evidence_location"
+    },
+    {
+      "id": "q-read-2-1",
+      "exercise_id": "read-ex-2",
+      "question_number": 1,
+      "question_text": "Early 20th-century researchers believed that raising children bilingually enhanced their vocabulary growth.",
+      "question_type": "true_false_not_given",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correct_answer": "FALSE",
+      "explanation_uz": "20-asr boshidagi tadqiqotlar ikki tillilik so‘z boyligini pasaytiradi (diminished vocabulary acquisition) deb xulosa qilgan, o‘stiradi deb emas.",
+      "evidence_passage": "Early 20th-century assessments routinely concluded that bilingual youngsters suffered from diminished vocabulary acquisition and linguistic hesitation.",
+      "error_category": "paraphrase_recognition"
+    },
+    {
+      "id": "q-read-2-2",
+      "exercise_id": "read-ex-2",
+      "question_number": 2,
+      "question_text": "Both languages remain active in a bilingual brain even when only one language is being spoken.",
+      "question_type": "true_false_not_given",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correct_answer": "TRUE",
+      "explanation_uz": "Matnda aniq keltirilgan: faqat bitta tilda gapirilganda ham ikkala til tizimi bir vaqtda faol bo‘lib turadi.",
+      "evidence_passage": "Whenever a bilingual individual speaks, both language systems remain activated simultaneously.",
+      "error_category": "evidence_location"
+    },
+    {
+      "id": "q-read-2-3",
+      "exercise_id": "read-ex-2",
+      "question_number": 3,
+      "question_text": "The Simon and Flanker tests were originally created in Dr. Ellen Bialystok’s laboratory in Toronto.",
+      "question_type": "true_false_not_given",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "correct_answer": "NOT GIVEN",
+      "explanation_uz": "Matnda Bialystok bu mashhur testlardan foydalangani aytilgan, lekin testlarning o‘zi uning laboratoriyasida ixtiro qilingani haqida hech qanday ma’lumot berilmagan.",
+      "evidence_passage": "Empirical investigations orchestrated by cognitive neuroscientist Dr. Ellen Bialystok revealed... In the celebrated Simon and Flanker tests...",
+      "error_category": "inference_error"
+    },
+    {
+      "id": "q-read-2-4",
+      "exercise_id": "read-ex-2",
+      "question_number": 4,
+      "question_text": "On average, how many years later do lifelong bilinguals develop clinical symptoms of Alzheimer's compared to monolinguals?",
+      "question_type": "multiple_choice",
+      "options": [
+        "A) One to two years",
+        "B) Four to five years",
+        "C) Exactly seven years",
+        "D) Ten years or more"
+      ],
+      "correct_answer": "B) Four to five years",
+      "explanation_uz": "Matnda Altsgeymer belgilari bir tillilarga nisbatan to‘rt-besh yil kechroq namoyon bo‘lishi (four to five years later) ta’kidlangan.",
+      "evidence_passage": "...manifest clinical symptoms of cognitive decline four to five years later than their monolingual counterparts...",
+      "error_category": "evidence_location"
+    },
+    {
+      "id": "q-list-1",
+      "exercise_id": "list-ex-1",
+      "question_number": 1,
+      "question_text": "What is Dilshod's student ID number?",
+      "question_type": "multiple_choice",
+      "options": [
+        "UK-90824",
+        "UK-90842",
+        "UZ-90842",
+        "UK-90482"
+      ],
+      "correct_answer": "UK-90842",
+      "explanation_uz": "Talaba o‘z ID raqamini aniq 'UK-90842' deb aytadi.",
+      "evidence_passage": "Student: Yes, it is UK-90842.",
+      "error_category": "spelling_mistake"
+    },
+    {
+      "id": "q-list-2",
+      "exercise_id": "list-ex-1",
+      "question_number": 2,
+      "question_text": "How much is the quarterly accommodation rent?",
+      "question_type": "multiple_choice",
+      "options": [
+        "1,450 pounds",
+        "1,800 pounds",
+        "1,850 pounds",
+        "2,100 pounds"
+      ],
+      "correct_answer": "1,850 pounds",
+      "explanation_uz": "Ofitser '1,850 pounds, fully inclusive...' deb ma'lum qiladi.",
+      "evidence_passage": "The quarterly rent is 1,850 pounds, fully inclusive...",
+      "error_category": "evidence_location"
+    },
+    {
+      "id": "q-list-3",
+      "exercise_id": "list-ex-1",
+      "question_number": 3,
+      "question_text": "By what time must key collection and inventory inspection be completed?",
+      "question_type": "multiple_choice",
+      "options": [
+        "6:00 PM",
+        "8:00 PM",
+        "10:00 PM",
+        "Midnight (12:00 AM)"
+      ],
+      "correct_answer": "8:00 PM",
+      "explanation_uz": "Qabulxonaning 24 soat ochiqligi chalg‘ituvchi omil bo‘lib, kalit olish aynan soat 8:00 PM gacha bajarilishi lozim.",
+      "evidence_passage": "...key collection for inventory inspection must be completed before 8:00 PM.",
+      "error_category": "inference_error"
+    },
+    {
+      "id": "q-gram-1",
+      "exercise_id": "gram-ex-1",
+      "question_number": 1,
+      "question_text": "Rarely _______ such an unprecedented correlation between green spaces and productivity.",
+      "question_type": "multiple_choice",
+      "options": [
+        "A) researchers have observed",
+        "B) have researchers observed",
+        "C) researchers did observe",
+        "D) do researchers had observed"
+      ],
+      "correct_answer": "B) have researchers observed",
+      "explanation_uz": "Gap 'Rarely' inkor yuklamasi bilan boshlanganda inversiya (yordamchi fe'l egadan oldinga chiqadi) qo‘llaniladi: Rarely have researchers observed...",
+      "error_category": "grammar_accuracy"
+    },
+    {
+      "id": "q-gram-2",
+      "exercise_id": "gram-ex-1",
+      "question_number": 2,
+      "question_text": "_______ governments implemented stricter carbon controls earlier, atmospheric degradation would be substantially less acute today.",
+      "question_type": "multiple_choice",
+      "options": [
+        "A) If had",
+        "B) Had",
+        "C) Should",
+        "D) Were"
+      ],
+      "correct_answer": "B) Had",
+      "explanation_uz": "Third Conditional inversiyasida 'If' tushib qolib, gap 'Had + ega + past participle' bilan tuziladi: Had governments implemented...",
+      "error_category": "grammar_accuracy"
+    },
+    {
+      "id": "q-list2-1",
+      "exercise_id": "list-ex-2",
+      "question_number": 1,
+      "question_text": "What are the library's Sunday opening hours?",
+      "question_type": "multiple_choice",
+      "options": [
+        "8:30 AM - 7:00 PM",
+        "9:00 AM - 5:00 PM",
+        "10:00 AM - 4:00 PM",
+        "Closed on Sundays"
+      ],
+      "correct_answer": "10:00 AM - 4:00 PM",
+      "explanation_uz": "Dushanba-shanba 8:30-19:00, ammo yakshanba kuni aniq 10:00 AM dan 4:00 PM gacha ochiq.",
+      "evidence_passage": "On Sundays, we are open strictly between 10:00 AM and 4:00 PM for private study only.",
+      "error_category": "evidence_location"
+    },
+    {
+      "id": "q-list2-2",
+      "exercise_id": "list-ex-2",
+      "question_number": 2,
+      "question_text": "Where are the Rare Manuscripts and Local Heritage Archives located?",
+      "question_type": "multiple_choice",
+      "options": [
+        "Ground Floor",
+        "Level 1",
+        "Level 2",
+        "Level 3"
+      ],
+      "correct_answer": "Level 3",
+      "explanation_uz": "Noyob qo'lyozmalar va tarixiy arxivlar 3-qavatda (Level 3) joylashgan.",
+      "evidence_passage": "...the Rare Manuscripts and Local Heritage Archives are located on Level 3.",
+      "error_category": "evidence_location"
+    },
+    {
+      "id": "q-list2-3",
+      "exercise_id": "list-ex-2",
+      "question_number": 3,
+      "question_text": "How many books can standard members borrow at a time?",
+      "question_type": "multiple_choice",
+      "options": [
+        "4 books",
+        "6 books",
+        "8 books",
+        "10 books"
+      ],
+      "correct_answer": "8 books",
+      "explanation_uz": "A'zolar bir vaqtning o'zida 8 tagacha kitob olishlari mumkin.",
+      "evidence_passage": "Lastly, standard members can borrow up to 8 books at any time...",
+      "error_category": "evidence_location"
+    },
+    {
+      "id": "q-list2-4",
+      "exercise_id": "list-ex-2",
+      "question_number": 4,
+      "question_text": "What is the refundable key deposit for accessing Level 3?",
+      "question_type": "multiple_choice",
+      "options": [
+        "10 pounds",
+        "15 pounds",
+        "20 pounds",
+        "25 pounds"
+      ],
+      "correct_answer": "20 pounds",
+      "explanation_uz": "Xavfsizlik nishoni uchun 20 funt qaytariladigan depozit to'lanishi lozim.",
+      "evidence_passage": "...after paying a refundable key deposit of 20 pounds.",
+      "error_category": "spelling_mistake"
+    },
+    {
+      "id": "q-list3-1",
+      "exercise_id": "list-ex-3",
+      "question_number": 1,
+      "question_text": "Why is bioluminescent light described as 'cold light'?",
+      "question_type": "multiple_choice",
+      "options": [
+        "It only occurs in freezing polar ocean depths",
+        "Less than 20% of the reaction produces thermal energy",
+        "It requires temperatures below zero to activate",
+        "It completely absorbs heat from surrounding seawater"
+      ],
+      "correct_answer": "Less than 20% of the reaction produces thermal energy",
+      "explanation_uz": "Ma'ruzachi reaksiyaning 20% dan kamrog'i issiqlik energiyasi hosil qilishini, shuning uchun 'sovuq nur' deb atalishini tushuntiradi.",
+      "evidence_passage": "In fact, less than 20 percent of the reaction produces thermal energy, making it exceptionally efficient.",
+      "error_category": "evidence_location"
+    },
+    {
+      "id": "q-list3-2",
+      "exercise_id": "list-ex-3",
+      "question_number": 2,
+      "question_text": "What two compounds are essential for producing bioluminescent light?",
+      "question_type": "multiple_choice",
+      "options": [
+        "Luciferin and luciferase",
+        "Chlorophyll and nitrogen",
+        "Hemoglobin and calcium",
+        "Melanin and keratin"
+      ],
+      "correct_answer": "Luciferin and luciferase",
+      "explanation_uz": "Reaksiya lyutsiferin (pigment) va lyutsiferaza (ferment) birikmasini talab qiladi.",
+      "evidence_passage": "...a light-emitting pigment called luciferin, and an enzyme known as luciferase.",
+      "error_category": "evidence_location"
+    },
+    {
+      "id": "q-list3-3",
+      "exercise_id": "list-ex-3",
+      "question_number": 3,
+      "question_text": "How does 'counter-illumination' protect marine species from predators?",
+      "question_type": "multiple_choice",
+      "options": [
+        "It temporarily blinds approaching predators with flashes",
+        "It produces heat shock waves in the water",
+        "It matches surface light to conceal their silhouette from beneath",
+        "It mimics dangerous toxic jellyfish"
+      ],
+      "correct_answer": "It matches surface light to conceal their silhouette from beneath",
+      "explanation_uz": "Qorindagi yorug'lik tepadan tushayotgan quyosh nuri bilan uyg'unlashib, pastdagi yirtqichlarga ko'rinmas qiladi.",
+      "evidence_passage": "By emitting faint bluish light from their ventral underbellies, they match the sunlight filtering down from the surface...",
+      "error_category": "inference_error"
+    }
+  ],
+  "attempts": [
+    {
+      "id": "sample-attempt-read-1",
+      "profile_id": "demo-student-id",
+      "exercise_id": "read-ex-1",
+      "status": "submitted",
+      "started_at": "2026-10-23T12:44:59.012Z",
+      "deadline_at": "2026-10-23T13:04:59.012Z",
+      "submitted_at": "2026-10-23T12:59:49.012Z",
+      "score": 3,
+      "total_questions": 4,
+      "band_estimate": 7,
+      "duration_seconds": 890
+    },
+    {
+      "id": "ad337237-7a67-42ff-87e5-74c079c1c8dd",
+      "profile_id": "e85e3eff-2fcf-4bcb-9a68-7bb7982dde12",
+      "exercise_id": "read-ex-1",
+      "status": "submitted",
+      "started_at": "2026-10-23T14:44:59.015Z",
+      "deadline_at": "2026-10-23T15:04:59.015Z",
+      "submitted_at": "2026-10-23T14:44:59.017Z",
+      "score": 1,
+      "total_questions": 4,
+      "band_estimate": 4.5,
+      "duration_seconds": 0
+    },
+    {
+      "id": "f1b29b8f-4caf-4242-95c0-d0d6ff0db0f5",
+      "profile_id": "def02f12-7985-4375-b3be-7dadb480ba8c",
+      "exercise_id": "read-ex-1",
+      "status": "submitted",
+      "started_at": "2026-10-23T14:56:01.851Z",
+      "deadline_at": "2026-10-23T15:16:01.851Z",
+      "submitted_at": "2026-10-23T14:56:01.852Z",
+      "score": 1,
+      "total_questions": 4,
+      "band_estimate": 4.5,
+      "duration_seconds": 0
+    },
+    {
+      "id": "f3028888-8c06-4c97-9fc5-2d6d0c30cf9e",
+      "profile_id": "demo-student-id",
+      "exercise_id": "list-ex-1",
+      "status": "submitted",
+      "started_at": "2026-10-23T15:23:43.382Z",
+      "deadline_at": "2026-10-23T15:38:43.382Z",
+      "submitted_at": "2026-10-23T15:24:58.842Z",
+      "score": 0,
+      "total_questions": 3,
+      "band_estimate": 4.5,
+      "duration_seconds": 75
+    },
+    {
+      "id": "sample-attempt-read-1",
+      "profile_id": "demo-student-id",
+      "exercise_id": "read-ex-1",
+      "status": "submitted",
+      "started_at": "2026-10-23T13:25:04.264Z",
+      "deadline_at": "2026-10-23T13:45:04.264Z",
+      "submitted_at": "2026-10-23T13:39:54.264Z",
+      "score": 3,
+      "total_questions": 4,
+      "band_estimate": 7,
+      "duration_seconds": 890
+    },
+    {
+      "id": "8d9d06b5-a7ca-4a3f-aa72-6d6088ad3d3f",
+      "profile_id": "demo-student-id",
+      "exercise_id": "list-ex-1",
+      "status": "submitted",
+      "started_at": "2026-10-23T15:25:15.142Z",
+      "deadline_at": "2026-10-23T15:40:15.142Z",
+      "submitted_at": "2026-10-23T15:26:13.853Z",
+      "score": 1,
+      "total_questions": 3,
+      "band_estimate": 4.5,
+      "duration_seconds": 59
+    }
+  ],
+  "answers": [
+    {
+      "id": "dc192c35-3e3b-4b65-aba3-989ceb72ce26",
+      "attempt_id": "sample-attempt-read-1",
+      "question_id": "q-read-1",
+      "user_answer": "FALSE",
+      "is_correct": true,
+      "saved_at": "2026-10-23T14:44:59.012Z"
+    },
+    {
+      "id": "810689fe-555d-464b-8f30-1b87ad1c1d47",
+      "attempt_id": "sample-attempt-read-1",
+      "question_id": "q-read-2",
+      "user_answer": "TRUE",
+      "is_correct": true,
+      "saved_at": "2026-10-23T14:44:59.012Z"
+    },
+    {
+      "id": "f2bb318e-3bc3-4155-bcef-9c1af7a281a8",
+      "attempt_id": "sample-attempt-read-1",
+      "question_id": "q-read-3",
+      "user_answer": "FALSE",
+      "is_correct": false,
+      "saved_at": "2026-10-23T14:44:59.012Z"
+    },
+    {
+      "id": "f76ae43b-aefc-49c0-b9a5-7beb6e467d8c",
+      "attempt_id": "sample-attempt-read-1",
+      "question_id": "q-read-4",
+      "user_answer": "B) Structural reinforcement for soil loads and irrigation systems",
+      "is_correct": true,
+      "saved_at": "2026-10-23T14:44:59.012Z"
+    },
+    {
+      "id": "71f42419-8449-474d-b99b-6324cbc57d8c",
+      "attempt_id": "ad337237-7a67-42ff-87e5-74c079c1c8dd",
+      "question_id": "q-read-1",
+      "user_answer": "FALSE",
+      "saved_at": "2026-10-23T14:44:59.017Z"
+    },
+    {
+      "id": "88557efe-a01b-48cf-ace9-dc147a68a590",
+      "attempt_id": "f1b29b8f-4caf-4242-95c0-d0d6ff0db0f5",
+      "question_id": "q-read-1",
+      "user_answer": "FALSE",
+      "saved_at": "2026-10-23T14:56:01.851Z"
+    },
+    {
+      "id": "c766a275-e30c-42a2-b96c-6bb13deb2e95",
+      "attempt_id": "sample-attempt-read-1",
+      "question_id": "q-read-1",
+      "user_answer": "FALSE",
+      "is_correct": true,
+      "saved_at": "2026-10-23T15:25:04.264Z"
+    },
+    {
+      "id": "5fcd873e-1393-4724-9d5d-7a7d5843ecb6",
+      "attempt_id": "sample-attempt-read-1",
+      "question_id": "q-read-2",
+      "user_answer": "TRUE",
+      "is_correct": true,
+      "saved_at": "2026-10-23T15:25:04.264Z"
+    },
+    {
+      "id": "ea29c968-cc46-464e-ac78-d2fb50197f3f",
+      "attempt_id": "sample-attempt-read-1",
+      "question_id": "q-read-3",
+      "user_answer": "FALSE",
+      "is_correct": false,
+      "saved_at": "2026-10-23T15:25:04.264Z"
+    },
+    {
+      "id": "e3bf6e51-bfcd-4549-9bbd-e02b53be5620",
+      "attempt_id": "sample-attempt-read-1",
+      "question_id": "q-read-4",
+      "user_answer": "B) Structural reinforcement for soil loads and irrigation systems",
+      "is_correct": true,
+      "saved_at": "2026-10-23T15:25:04.264Z"
+    },
+    {
+      "id": "78d2db88-201d-43a8-8536-6c303580f67e",
+      "attempt_id": "8d9d06b5-a7ca-4a3f-aa72-6d6088ad3d3f",
+      "question_id": "q-list-2",
+      "user_answer": "1,800 pounds",
+      "saved_at": "2026-10-23T15:26:08.416Z"
+    },
+    {
+      "id": "76b8f55a-5235-420d-b6ad-10274414b92d",
+      "attempt_id": "8d9d06b5-a7ca-4a3f-aa72-6d6088ad3d3f",
+      "question_id": "q-list-1",
+      "user_answer": "UZ-90842",
+      "saved_at": "2026-10-23T15:26:07.387Z"
+    },
+    {
+      "id": "a67ce65d-e6d8-41da-b5b9-82ad9ec44c3b",
+      "attempt_id": "8d9d06b5-a7ca-4a3f-aa72-6d6088ad3d3f",
+      "question_id": "q-list-3",
+      "user_answer": "8:00 PM",
+      "saved_at": "2026-10-23T15:26:09.475Z"
+    }
+  ],
+  "ai_feedback": [],
+  "error_patterns": [
+    {
+      "id": "db5f2c0e-cf4c-44a9-8917-47e206d8668b",
+      "profile_id": "demo-student-id",
+      "skill": "reading",
+      "category": "inference_error",
+      "count": 1,
+      "latest_occurrence": "2026-10-23T14:44:59.012Z",
+      "last_attempt_id": "sample-attempt-read-1",
+      "corrective_recommendation": "Not Given qoidasi: agar matnda aniq fakt berilmagan bo‘lsa, shaxsiy taxminga tayanmang."
+    },
+    {
+      "id": "dceca3e2-4afe-4c46-9de1-310d37bf5b2a",
+      "profile_id": "e85e3eff-2fcf-4bcb-9a68-7bb7982dde12",
+      "skill": "reading",
+      "category": "evidence_location",
+      "count": 2,
+      "latest_occurrence": "2026-10-23T14:44:59.018Z",
+      "last_attempt_id": "ad337237-7a67-42ff-87e5-74c079c1c8dd",
+      "corrective_recommendation": "Savoldagi kalit so‘zlarni matndan topish (scanning) tezligini oshiruvchi mashqlarni bajaring."
+    },
+    {
+      "id": "181e3441-9b40-48ab-ae6f-5f7a0ca5112d",
+      "profile_id": "e85e3eff-2fcf-4bcb-9a68-7bb7982dde12",
+      "skill": "reading",
+      "category": "inference_error",
+      "count": 1,
+      "latest_occurrence": "2026-10-23T14:44:59.018Z",
+      "last_attempt_id": "ad337237-7a67-42ff-87e5-74c079c1c8dd",
+      "corrective_recommendation": "Matnda to‘g‘ridan-to‘g‘ri aytilmagan ma’lumotni o‘zingizdan qo‘shib baholamang (Not Given qoidasi)."
+    },
+    {
+      "id": "5480f27b-e1cb-452a-b629-fbaa1a2444d2",
+      "profile_id": "def02f12-7985-4375-b3be-7dadb480ba8c",
+      "skill": "reading",
+      "category": "evidence_location",
+      "count": 2,
+      "latest_occurrence": "2026-10-23T14:56:01.853Z",
+      "last_attempt_id": "f1b29b8f-4caf-4242-95c0-d0d6ff0db0f5",
+      "corrective_recommendation": "Savoldagi kalit so‘zlarni matndan topish (scanning) tezligini oshiruvchi mashqlarni bajaring."
+    },
+    {
+      "id": "a78d2ece-0a9d-4437-b9bd-ab9382adaa85",
+      "profile_id": "def02f12-7985-4375-b3be-7dadb480ba8c",
+      "skill": "reading",
+      "category": "inference_error",
+      "count": 1,
+      "latest_occurrence": "2026-10-23T14:56:01.852Z",
+      "last_attempt_id": "f1b29b8f-4caf-4242-95c0-d0d6ff0db0f5",
+      "corrective_recommendation": "Matnda to‘g‘ridan-to‘g‘ri aytilmagan ma’lumotni o‘zingizdan qo‘shib baholamang (Not Given qoidasi)."
+    },
+    {
+      "id": "17d765ae-d9b5-43e7-8d96-658cf6520ce1",
+      "profile_id": "demo-student-id",
+      "skill": "listening",
+      "category": "spelling_mistake",
+      "count": 2,
+      "latest_occurrence": "2026-10-23T15:26:13.853Z",
+      "last_attempt_id": "8d9d06b5-a7ca-4a3f-aa72-6d6088ad3d3f",
+      "corrective_recommendation": "So‘zlarning to‘g‘ri yozilishini tekshiring, ayniqsa qo‘sh undoshli (e.g. accommodation, necessary) so‘zlar."
+    },
+    {
+      "id": "aa8df1f7-1a75-4dab-a7ef-32ce79a48a4e",
+      "profile_id": "demo-student-id",
+      "skill": "listening",
+      "category": "evidence_location",
+      "count": 2,
+      "latest_occurrence": "2026-10-23T15:26:13.854Z",
+      "last_attempt_id": "8d9d06b5-a7ca-4a3f-aa72-6d6088ad3d3f",
+      "corrective_recommendation": "Savoldagi kalit so‘zlarni matndan topish (scanning) tezligini oshiruvchi mashqlarni bajaring."
+    },
+    {
+      "id": "46ecc879-6b6e-4a86-be7b-a09f8ec2733c",
+      "profile_id": "demo-student-id",
+      "skill": "listening",
+      "category": "inference_error",
+      "count": 1,
+      "latest_occurrence": "2026-10-23T15:24:58.843Z",
+      "last_attempt_id": "f3028888-8c06-4c97-9fc5-2d6d0c30cf9e",
+      "corrective_recommendation": "Matnda to‘g‘ridan-to‘g‘ri aytilmagan ma’lumotni o‘zingizdan qo‘shib baholamang (Not Given qoidasi)."
+    },
+    {
+      "id": "354698f2-fcc5-4d38-bf09-f860d37dc09b",
+      "profile_id": "demo-student-id",
+      "skill": "reading",
+      "category": "inference_error",
+      "count": 1,
+      "latest_occurrence": "2026-10-23T15:25:04.264Z",
+      "last_attempt_id": "sample-attempt-read-1",
+      "corrective_recommendation": "Not Given qoidasi: agar matnda aniq fakt berilmagan bo‘lsa, shaxsiy taxminga tayanmang."
+    }
+  ],
+  "vocab_items": [
+    {
+      "id": "v-1",
+      "word": "Substantiate",
+      "phonetic": "/səbˈstæn.ʃi.eɪt/",
+      "uzbek_meaning": "Dalillar bilan isbotlamoq, asoslamoq",
+      "english_definition": "To provide evidence to support or prove the truth of an assertion.",
+      "example_sentence": "The candidate failed to substantiate her claims with empirical academic data.",
+      "level": "C1",
+      "topic": "Academic Writing & Argumentation",
+      "collocations": [
+        "substantiate an allegation",
+        "substantiate a hypothesis",
+        "empirical evidence to substantiate"
+      ]
+    },
+    {
+      "id": "v-2",
+      "word": "Ubiquitous",
+      "phonetic": "/juːˈbɪk.wɪ.təs/",
+      "uzbek_meaning": "Hamma joyda uchraydigan, keng tarqalgan",
+      "english_definition": "Present, appearing, or found everywhere simultaneously.",
+      "example_sentence": "Smartphones and digital interfaces have become ubiquitous in secondary education.",
+      "level": "C1",
+      "topic": "Technology & Society",
+      "collocations": [
+        "ubiquitous presence",
+        "become increasingly ubiquitous",
+        "ubiquitous computing"
+      ]
+    },
+    {
+      "id": "v-3",
+      "word": "Pragmatic",
+      "phonetic": "/præɡˈmæt.ɪk/",
+      "uzbek_meaning": "Amaliy, real vaziyatga moslashuvchan",
+      "english_definition": "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+      "example_sentence": "Policymakers must adopt a pragmatic approach to renewable energy subsidies.",
+      "level": "B2",
+      "topic": "Governance & Society",
+      "collocations": [
+        "pragmatic solution",
+        "pragmatic approach",
+        "pragmatic compromise"
+      ]
+    },
+    {
+      "id": "v-4",
+      "word": "Exacerbate",
+      "phonetic": "/ɪɡˈzæs.ə.beɪt/",
+      "uzbek_meaning": "Og‘irlashtirmoq, vaziyatni yanada yomonlashtirmoq",
+      "english_definition": "To make a problem, bad situation, or negative feeling worse.",
+      "example_sentence": "Rapid urbanization without adequate transit infrastructure exacerbates traffic congestion.",
+      "level": "C1",
+      "topic": "Environment & Urban Life",
+      "collocations": [
+        "exacerbate the problem",
+        "exacerbate inequalities",
+        "further exacerbate tension"
+      ]
+    },
+    {
+      "id": "v-5",
+      "word": "Plausible",
+      "phonetic": "/ˈplɔː.zə.bəl/",
+      "uzbek_meaning": "Ishonarli, mantiqan to‘g‘ri ko‘ringan",
+      "english_definition": "Seeming reasonable, probable, or worthy of belief.",
+      "example_sentence": "The climatologist presented a plausible explanation for the sudden atmospheric shift.",
+      "level": "B2",
+      "topic": "Science & Research",
+      "collocations": [
+        "plausible explanation",
+        "plausible alternative",
+        "hardly plausible"
+      ]
+    },
+    {
+      "id": "v-6",
+      "word": "Detrimental",
+      "phonetic": "/ˌdet.rɪˈmen.təl/",
+      "uzbek_meaning": "Zararli, salbiy oqibatlarga olib keluvchi",
+      "english_definition": "Tending to cause harm or damage.",
+      "example_sentence": "Excessive nocturnal screen time exerts a detrimental impact on cognitive retention.",
+      "level": "B2",
+      "topic": "Health & Psychology",
+      "collocations": [
+        "detrimental effect",
+        "detrimental impact on",
+        "proven detrimental"
+      ]
+    },
+    {
+      "id": "v-1",
+      "word": "Substantiate",
+      "phonetic": "/səbˈstæn.ʃi.eɪt/",
+      "uzbek_meaning": "Dalillar bilan isbotlamoq, asoslamoq",
+      "english_definition": "To provide evidence to support or prove the truth of an assertion.",
+      "example_sentence": "The candidate failed to substantiate her claims with empirical academic data.",
+      "level": "C1",
+      "topic": "Academic Writing & Argumentation",
+      "collocations": [
+        "substantiate an allegation",
+        "substantiate a hypothesis",
+        "empirical evidence to substantiate"
+      ]
+    },
+    {
+      "id": "v-2",
+      "word": "Ubiquitous",
+      "phonetic": "/juːˈbɪk.wɪ.təs/",
+      "uzbek_meaning": "Hamma joyda uchraydigan, keng tarqalgan",
+      "english_definition": "Present, appearing, or found everywhere simultaneously.",
+      "example_sentence": "Smartphones and digital interfaces have become ubiquitous in secondary education.",
+      "level": "C1",
+      "topic": "Technology & Society",
+      "collocations": [
+        "ubiquitous presence",
+        "become increasingly ubiquitous",
+        "ubiquitous computing"
+      ]
+    },
+    {
+      "id": "v-3",
+      "word": "Pragmatic",
+      "phonetic": "/præɡˈmæt.ɪk/",
+      "uzbek_meaning": "Amaliy, real vaziyatga moslashuvchan",
+      "english_definition": "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+      "example_sentence": "Policymakers must adopt a pragmatic approach to renewable energy subsidies.",
+      "level": "B2",
+      "topic": "Governance & Society",
+      "collocations": [
+        "pragmatic solution",
+        "pragmatic approach",
+        "pragmatic compromise"
+      ]
+    },
+    {
+      "id": "v-4",
+      "word": "Exacerbate",
+      "phonetic": "/ɪɡˈzæs.ə.beɪt/",
+      "uzbek_meaning": "Og‘irlashtirmoq, vaziyatni yanada yomonlashtirmoq",
+      "english_definition": "To make a problem, bad situation, or negative feeling worse.",
+      "example_sentence": "Rapid urbanization without adequate transit infrastructure exacerbates traffic congestion.",
+      "level": "C1",
+      "topic": "Environment & Urban Life",
+      "collocations": [
+        "exacerbate the problem",
+        "exacerbate inequalities",
+        "further exacerbate tension"
+      ]
+    },
+    {
+      "id": "v-5",
+      "word": "Plausible",
+      "phonetic": "/ˈplɔː.zə.bəl/",
+      "uzbek_meaning": "Ishonarli, mantiqan to‘g‘ri ko‘ringan",
+      "english_definition": "Seeming reasonable, probable, or worthy of belief.",
+      "example_sentence": "The climatologist presented a plausible explanation for the sudden atmospheric shift.",
+      "level": "B2",
+      "topic": "Science & Research",
+      "collocations": [
+        "plausible explanation",
+        "plausible alternative",
+        "hardly plausible"
+      ]
+    },
+    {
+      "id": "v-6",
+      "word": "Detrimental",
+      "phonetic": "/ˌdet.rɪˈmen.təl/",
+      "uzbek_meaning": "Zararli, salbiy oqibatlarga olib keluvchi",
+      "english_definition": "Tending to cause harm or damage.",
+      "example_sentence": "Excessive nocturnal screen time exerts a detrimental impact on cognitive retention.",
+      "level": "B2",
+      "topic": "Health & Psychology",
+      "collocations": [
+        "detrimental effect",
+        "detrimental impact on",
+        "proven detrimental"
+      ]
+    }
+  ],
+  "vocab_reviews": [
+    {
+      "id": "bd182551-16ad-4a3c-abfe-950595f0ce8d",
+      "profile_id": "demo-student-id",
+      "vocab_id": "v-1",
+      "mastery_level": 4,
+      "interval_days": 6,
+      "ease_factor": 2.6,
+      "next_review_at": "2026-10-29T14:44:59.011Z",
+      "reviewed_at": "2026-10-23T14:44:59.011Z"
+    },
+    {
+      "id": "129a37fe-f7c9-4e1a-b6d5-7295bec3fea2",
+      "profile_id": "demo-student-id",
+      "vocab_id": "v-4",
+      "mastery_level": 2,
+      "interval_days": 1,
+      "ease_factor": 2.3,
+      "next_review_at": "2026-10-24T14:44:59.011Z",
+      "reviewed_at": "2026-10-23T14:44:59.011Z"
+    },
+    {
+      "id": "f8f0aa4e-a587-4e78-9d04-e7bd98f9503d",
+      "profile_id": "e85e3eff-2fcf-4bcb-9a68-7bb7982dde12",
+      "vocab_id": "v-1",
+      "mastery_level": 5,
+      "next_review_at": "2026-10-24T14:44:59.020Z",
+      "interval_days": 1,
+      "ease_factor": 2.5,
+      "reviewed_at": "2026-10-23T14:44:59.020Z"
+    },
+    {
+      "id": "834c7da8-32d7-40a3-a77d-bc2c07921e43",
+      "profile_id": "def02f12-7985-4375-b3be-7dadb480ba8c",
+      "vocab_id": "v-1",
+      "mastery_level": 5,
+      "next_review_at": "2026-10-24T14:56:01.855Z",
+      "interval_days": 1,
+      "ease_factor": 2.5,
+      "reviewed_at": "2026-10-23T14:56:01.855Z"
+    },
+    {
+      "id": "69831f77-1eea-408f-bc10-6d5cb975477d",
+      "profile_id": "demo-student-id",
+      "vocab_id": "v-1",
+      "mastery_level": 4,
+      "interval_days": 6,
+      "ease_factor": 2.6,
+      "next_review_at": "2026-10-29T15:25:04.264Z",
+      "reviewed_at": "2026-10-23T15:25:04.264Z"
+    },
+    {
+      "id": "4e33a8db-f6ad-47b0-9db9-d52c153f09d2",
+      "profile_id": "demo-student-id",
+      "vocab_id": "v-4",
+      "mastery_level": 2,
+      "interval_days": 1,
+      "ease_factor": 2.3,
+      "next_review_at": "2026-10-24T15:25:04.264Z",
+      "reviewed_at": "2026-10-23T15:25:04.264Z"
+    }
+  ],
+  "rewards": [
+    {
+      "id": "rew-1",
+      "code": "FIRST_STEP",
+      "name_uz": "Birinchi Qadam",
+      "description_uz": "Birinchi IELTS mashqini muvaffaqiyatli yakunladingiz",
+      "icon_name": "Award",
+      "points": 50,
+      "criteria_type": "first_test",
+      "criteria_value": 1
+    },
+    {
+      "id": "rew-2",
+      "code": "STREAK_7",
+      "name_uz": "Haftalik Sabr-Toqat",
+      "description_uz": "7 kun uzluksiz kunlik dars rejasiga amal qilindi",
+      "icon_name": "Flame",
+      "points": 150,
+      "criteria_type": "streak",
+      "criteria_value": 7
+    },
+    {
+      "id": "rew-3",
+      "code": "READING_MASTER",
+      "name_uz": "Akademik Mutolaa Ustasi",
+      "description_uz": "Reading bo‘limida 3 ta to‘liq passage topshirildi",
+      "icon_name": "BookOpen",
+      "points": 200,
+      "criteria_type": "reading_tests",
+      "criteria_value": 3
+    },
+    {
+      "id": "rew-4",
+      "code": "ESSAY_PRO",
+      "name_uz": "Mohir Insho Muallifi",
+      "description_uz": "Writing Task 2 bo‘yicha to‘liq AI tahlilidan o‘tildi",
+      "icon_name": "PenTool",
+      "points": 250,
+      "criteria_type": "writing_submitted",
+      "criteria_value": 1
+    },
+    {
+      "id": "rew-1",
+      "code": "FIRST_STEP",
+      "name_uz": "Birinchi Qadam",
+      "description_uz": "Birinchi IELTS mashqini muvaffaqiyatli yakunladingiz",
+      "icon_name": "Award",
+      "points": 50,
+      "criteria_type": "first_test",
+      "criteria_value": 1
+    },
+    {
+      "id": "rew-2",
+      "code": "STREAK_7",
+      "name_uz": "Haftalik Sabr-Toqat",
+      "description_uz": "7 kun uzluksiz kunlik dars rejasiga amal qilindi",
+      "icon_name": "Flame",
+      "points": 150,
+      "criteria_type": "streak",
+      "criteria_value": 7
+    },
+    {
+      "id": "rew-3",
+      "code": "READING_MASTER",
+      "name_uz": "Akademik Mutolaa Ustasi",
+      "description_uz": "Reading bo‘limida 3 ta to‘liq passage topshirildi",
+      "icon_name": "BookOpen",
+      "points": 200,
+      "criteria_type": "reading_tests",
+      "criteria_value": 3
+    },
+    {
+      "id": "rew-4",
+      "code": "ESSAY_PRO",
+      "name_uz": "Mohir Insho Muallifi",
+      "description_uz": "Writing Task 2 bo‘yicha to‘liq AI tahlilidan o‘tildi",
+      "icon_name": "PenTool",
+      "points": 250,
+      "criteria_type": "writing_submitted",
+      "criteria_value": 1
+    }
+  ],
+  "student_rewards": [
+    {
+      "id": "6c7f1728-6eff-43fb-b9bb-b6c8f0012af3",
+      "profile_id": "demo-student-id",
+      "reward_id": "rew-1",
+      "awarded_at": "2026-10-20T14:44:59.012Z"
+    },
+    {
+      "id": "027e5485-f771-4d7b-bd49-7bc60c2256e4",
+      "profile_id": "demo-student-id",
+      "reward_id": "rew-2",
+      "awarded_at": "2026-10-23T14:44:59.012Z"
+    },
+    {
+      "id": "003a75b2-df19-4944-aa4a-be58c5d20818",
+      "profile_id": "e85e3eff-2fcf-4bcb-9a68-7bb7982dde12",
+      "reward_id": "rew-1",
+      "awarded_at": "2026-10-23T14:44:59.014Z"
+    },
+    {
+      "id": "3f3a185a-3652-4799-8d98-2d7ec86be4b9",
+      "profile_id": "e85e3eff-2fcf-4bcb-9a68-7bb7982dde12",
+      "reward_id": "rew-3",
+      "awarded_at": "2026-10-23T14:44:59.019Z"
+    },
+    {
+      "id": "a7c7bc93-9bee-4786-8bcb-5b3c621a6f64",
+      "profile_id": "def02f12-7985-4375-b3be-7dadb480ba8c",
+      "reward_id": "rew-1",
+      "awarded_at": "2026-10-23T14:56:01.850Z"
+    },
+    {
+      "id": "096f8f53-5215-4907-87a0-ad990b2983e8",
+      "profile_id": "def02f12-7985-4375-b3be-7dadb480ba8c",
+      "reward_id": "rew-3",
+      "awarded_at": "2026-10-23T14:56:01.853Z"
+    },
+    {
+      "id": "d06c29d2-c4a1-44af-a03d-3a5a4886bc81",
+      "profile_id": "demo-student-id",
+      "reward_id": "rew-3",
+      "awarded_at": "2026-10-23T15:24:58.843Z"
+    },
+    {
+      "id": "fbc14d40-f659-41a5-bd28-ac0b41a4269f",
+      "profile_id": "demo-student-id",
+      "reward_id": "rew-1",
+      "awarded_at": "2026-10-20T15:25:04.264Z"
+    },
+    {
+      "id": "1cde5977-ee92-41c9-a172-a896938bd081",
+      "profile_id": "demo-student-id",
+      "reward_id": "rew-2",
+      "awarded_at": "2026-10-23T15:25:04.264Z"
+    }
+  ],
+  "audit_events": [
+    {
+      "id": "282965f8-5bce-4b51-8441-b4fbd01d0e3b",
+      "actor_id": "system",
+      "actor_role": "system",
+      "action": "INIT_SEED",
+      "entity_type": "database",
+      "entity_id": "root",
+      "details": "Tizim boshlang‘ich akademik IELTS materiallari va standart javoblar kaliti bilan ishga tushirildi.",
+      "timestamp": "2026-10-23T14:44:59.012Z"
+    },
+    {
+      "id": "17d2975e-515f-4edd-b24c-027b148b4087",
+      "actor_id": "system",
+      "actor_role": "system",
+      "action": "INIT_SEED",
+      "entity_type": "database",
+      "entity_id": "root",
+      "details": "Tizim boshlang‘ich akademik IELTS materiallari va standart javoblar kaliti bilan ishga tushirildi.",
+      "timestamp": "2026-10-23T15:25:04.264Z"
+    }
+  ],
+  "chat_messages": []
+}
